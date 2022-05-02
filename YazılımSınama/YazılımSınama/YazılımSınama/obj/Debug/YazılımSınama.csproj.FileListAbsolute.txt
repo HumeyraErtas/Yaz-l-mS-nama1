@@ -1,0 +1,10 @@
+C:\Users\EysanGuc\source\repos\YazılımSınama\YazılımSınama\bin\Debug\YazılımSınama.exe.config
+C:\Users\EysanGuc\source\repos\YazılımSınama\YazılımSınama\bin\Debug\YazılımSınama.exe
+C:\Users\EysanGuc\source\repos\YazılımSınama\YazılımSınama\bin\Debug\YazılımSınama.pdb
+C:\Users\EysanGuc\source\repos\YazılımSınama\YazılımSınama\obj\Debug\YazılımSınama.csprojAssemblyReference.cache
+C:\Users\EysanGuc\source\repos\YazılımSınama\YazılımSınama\obj\Debug\YazılımSınama.Form1.resources
+C:\Users\EysanGuc\source\repos\YazılımSınama\YazılımSınama\obj\Debug\YazılımSınama.Properties.Resources.resources
+C:\Users\EysanGuc\source\repos\YazılımSınama\YazılımSınama\obj\Debug\YazılımSınama.csproj.GenerateResource.cache
+C:\Users\EysanGuc\source\repos\YazılımSınama\YazılımSınama\obj\Debug\YazılımSınama.csproj.CoreCompileInputs.cache
+C:\Users\EysanGuc\source\repos\YazılımSınama\YazılımSınama\obj\Debug\YazılımSınama.exe
+C:\Users\EysanGuc\source\repos\YazılımSınama\YazılımSınama\obj\Debug\YazılımSınama.pdb

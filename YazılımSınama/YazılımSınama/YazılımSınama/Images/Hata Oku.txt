@@ -1,0 +1,1 @@
+Hata bir, iki ve üç te para yıldıza kadar ulaşamaz ve program genede biter.
